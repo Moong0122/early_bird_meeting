@@ -1,0 +1,1 @@
+{"name":"react-earlybird-front","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next","build":"next build"},"author":{"name":"jacobLee"},"license":"ISC","dependencies":{"next":"9.4.4","prop-types":"15.7.2","react":"16.13.1","react-dom":"16.13.1"},"readme":"ERROR: No README data found!","_id":"react-earlybird-front@1.0.0"}
